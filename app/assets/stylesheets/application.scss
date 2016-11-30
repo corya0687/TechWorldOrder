@@ -11,5 +11,8 @@
  * It is generally better to create a new file per style scope.
  *
  *= require_tree .
+ *= require clean-blog
+ *= require custom-cb.css.scss
  *= require_self
+
  */

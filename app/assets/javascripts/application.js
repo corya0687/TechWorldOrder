@@ -12,5 +12,9 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= clean-blog
+//= clean-blog.min
+//= contact_me
+//= jqBootstrapValidation
 //= require turbolinks
 //= require_tree .
